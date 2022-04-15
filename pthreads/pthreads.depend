@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650004041 source:c:\users\jessi\onedrive - univali\Área de trabalho\trabalho so\pthreads\main.c
+	<locale.h>
+	<stdlib.h>
+	<pthread.h>
+	<stdbool.h>
+	<time.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1650001453 source:c:\users\jessi\onedrive - univali\Área de trabalho\trabalho so\openmp\main.c
+	<locale.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<omp.h>
+

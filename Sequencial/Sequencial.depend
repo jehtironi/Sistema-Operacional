@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1649999209 source:c:\users\jessi\onedrive - univali\Área de trabalho\trabalho so\sequencial\main.c
+	<locale.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdbool.h>
+	<omp.h>
+
